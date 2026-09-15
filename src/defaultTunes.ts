@@ -2993,7 +2993,7 @@ const rawTunes: {[tuneName: string]: RawTune} = {
 		]
 	},
 	'Underground': {
-		categories: [ "uncommon"],
+		categories: [ "uncommon", "new", "easy"],
 		sheet: sheetUrl + "underground.pdf",
 		descriptionFilename: "underground",
 		patterns: {
