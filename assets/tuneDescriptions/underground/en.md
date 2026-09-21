@@ -25,5 +25,5 @@ Good to begin with, because all instruments are quite easy:
 
 ## Breaks
 
-* Intro break: only repinique with OÏ answers
+* Intro: only repinique with OÏ answers
 * Break 1:  Everybody plays the agogo part
