@@ -3027,7 +3027,8 @@ const rawTunes: {[tuneName: string]: RawTune} = {
 				ta: '@ls',
 				ag: '@ls',
 				sh: '@ls'
-			},
+			}
+		},
 		exampleSong: [ "Intro", "Tune", "Break 1", "Tune"]
 	},
 	'Van Harte Pardon': {
